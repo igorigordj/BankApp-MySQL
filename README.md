@@ -1,2 +1,4 @@
 # BankApp-MySQL
-Pseudo Bank application connected to MySQL
+Pseudo Bank application with database
+Java Core
+MySQL
